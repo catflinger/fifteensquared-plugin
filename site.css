@@ -1,0 +1,3 @@
+.comment-body a[href$='#respond'] { 
+    display: none; 
+}
