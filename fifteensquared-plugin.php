@@ -11,7 +11,7 @@ License: GPL2
 
 function fifteensquared_register_css() {
 
-	wp_register_style( 'fifteensquared_css', plugins_url("fifteensquared-plugin/site.css"); );
+	wp_register_style( 'fifteensquared_css', plugins_url("fifteensquared-plugin/site.css") );
 
 	wp_enqueue_style( 'fifteensquared_css' );
 }
