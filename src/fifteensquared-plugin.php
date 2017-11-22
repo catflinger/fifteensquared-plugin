@@ -3,7 +3,7 @@
 Plugin Name: fifteensquared-plugin
 Plugin URI: http://fifteensquared.net/wordpress-plugins/fifteensquared
 Description: adds site-specefic behavious to the WPTouch theme for fifteensquared.net
-Version: 0.9.3
+Version: 1.0.0
 Author: Paul Drury
 Author URI: http://admin@fifteensquared.net
 License: GPL2
