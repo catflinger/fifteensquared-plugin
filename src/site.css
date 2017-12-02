@@ -1,3 +1,7 @@
 .comment-body a[href$='#respond'] { 
     display: none; 
 }
+div#wp-comment-wrap {
+    overflow:hidden;
+}
+
